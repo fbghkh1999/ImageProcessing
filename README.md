@@ -1,3 +1,3 @@
-########## ImageProcessing-ComputerVision-Panaroma Image
+## ImageProcessing-ComputerVision-Panaroma Image
 
 
