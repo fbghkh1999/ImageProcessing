@@ -1,3 +1,3 @@
-## Imageprocessing-pyhthon libraries-Ml-Rl-work with data
+## ImageProcessing-ComputerVision-PanaromaImage
 
 
